@@ -1,1 +1,1 @@
-# Markowitz-Efficient-Frontier-Investment-Model
+Attached is the code for the Investment Model
